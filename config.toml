@@ -36,10 +36,10 @@ home = ["HTML", "RSS", "JSON"]
 author = "SCIP ADMIN"
 description = "meta stuff"
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "** MECCE **"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "Test CMS website for MECCE"
+heading = "Test CMS website"
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
